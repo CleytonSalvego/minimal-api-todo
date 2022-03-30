@@ -1,4 +1,4 @@
-# Como criar uma Minimal Web API com ASP.NET 6 Core e EF 6 e autorização por Token com JWT Bearer
+# Minimal Web API com ASP.NET 6, EF 6 e autorização por Token com JWT Bearer
 Diferente de uma API Rest usual, a minial API é enxuta, direta com o mínimo de configurações possíveis e não utiliza Controllers.
 <br>
 E por não utilizar Controllers devemos nos ter atenção com algumas adaptações necessárias para usar autenticação e o Swagger e realizar o mapeamento puro dos endpoints.
