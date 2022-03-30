@@ -293,6 +293,30 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "MinimalApis.Extensions/0.5.2-pre.20220322.22": {
+        "type": "package",
+        "dependencies": {
+          "MiniValidation": "0.5.0-pre.20220315.50"
+        },
+        "compile": {
+          "lib/net6.0/MinimalApis.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/MinimalApis.Extensions.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "MiniValidation/0.5.0-pre.20220315.50": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MiniValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/MiniValidation.dll": {}
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -2087,6 +2111,37 @@
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
+      ]
+    },
+    "MinimalApis.Extensions/0.5.2-pre.20220322.22": {
+      "sha512": "+55Nfe7wyfgzCG+ZOSBqmGjGHKd34QeFLMfhF9rhGarYdItcWW6L3gIh9RFkoHMNBwE5mMPfdATDs/9hWBhPgQ==",
+      "type": "package",
+      "path": "minimalapis.extensions/0.5.2-pre.20220322.22",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net6.0/MinimalApis.Extensions.dll",
+        "lib/net6.0/MinimalApis.Extensions.xml",
+        "minimalapis.extensions.0.5.2-pre.20220322.22.nupkg.sha512",
+        "minimalapis.extensions.nuspec"
+      ]
+    },
+    "MiniValidation/0.5.0-pre.20220315.50": {
+      "sha512": "G5HiDfjIleWWS2azcXWTAxxKe22YvM5dlOxiXQ2W+ZIaRxMicqpJ88HMTF6ytbP3DEBo3/FGawgM8NgmX0b91A==",
+      "type": "package",
+      "path": "minivalidation/0.5.0-pre.20220315.50",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/MiniValidation.dll",
+        "lib/net6.0/MiniValidation.xml",
+        "lib/netcoreapp3.1/MiniValidation.dll",
+        "lib/netcoreapp3.1/MiniValidation.xml",
+        "lib/netstandard2.0/MiniValidation.dll",
+        "lib/netstandard2.0/MiniValidation.xml",
+        "minivalidation.0.5.0-pre.20220315.50.nupkg.sha512",
+        "minivalidation.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -5431,6 +5486,7 @@
       "Microsoft.EntityFrameworkCore.Relational.Design >= 1.1.6",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.14.0",
+      "MinimalApis.Extensions >= 0.5.2-pre.20220322.22",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -5499,6 +5555,10 @@
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
             "version": "[1.14.0, )"
+          },
+          "MinimalApis.Extensions": {
+            "target": "Package",
+            "version": "[0.5.2-pre.20220322.22, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

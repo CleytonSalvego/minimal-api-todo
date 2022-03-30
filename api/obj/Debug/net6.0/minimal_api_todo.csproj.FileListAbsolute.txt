@@ -68,3 +68,5 @@ C:\Projetos\10 - ASP.NET\minimal_api_todo\api\obj\Debug\net6.0\refint\minimal_ap
 C:\Projetos\10 - ASP.NET\minimal_api_todo\api\obj\Debug\net6.0\minimal_api_todo.pdb
 C:\Projetos\10 - ASP.NET\minimal_api_todo\api\obj\Debug\net6.0\minimal_api_todo.genruntimeconfig.cache
 C:\Projetos\10 - ASP.NET\minimal_api_todo\api\obj\Debug\net6.0\ref\minimal_api_todo.dll
+C:\Projetos\10 - ASP.NET\minimal_api_todo\api\bin\Debug\net6.0\MinimalApis.Extensions.dll
+C:\Projetos\10 - ASP.NET\minimal_api_todo\api\bin\Debug\net6.0\MiniValidation.dll

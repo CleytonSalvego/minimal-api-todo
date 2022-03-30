@@ -66,6 +66,10 @@
               "target": "Package",
               "version": "[1.14.0, )"
             },
+            "MinimalApis.Extensions": {
+              "target": "Package",
+              "version": "[0.5.2-pre.20220322.22, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vlDYbv8bQvopXNgZsgN8vamCCpm7S4a694C2xIGxPn2lTxqBIBFZFc9uhHhPgG/gow7YsvVzoa+DqQMXX8zk0Q==",
+  "dgSpecHash": "ldaZPASp80U5W2ajVGGkGo+PIxOmeWm8rV4/kfTEPNnfW9MYYxY3bWsiIQHB4YiQATCBhi/pW1ekyxp+zcKmig==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\10 - ASP.NET\\minimal_api_todo\\api\\minimal_api_todo.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,8 @@
     "C:\\Users\\Cleyton\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Cleyton\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Cleyton\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Cleyton\\.nuget\\packages\\minimalapis.extensions\\0.5.2-pre.20220322.22\\minimalapis.extensions.0.5.2-pre.20220322.22.nupkg.sha512",
+    "C:\\Users\\Cleyton\\.nuget\\packages\\minivalidation\\0.5.0-pre.20220315.50\\minivalidation.0.5.0-pre.20220315.50.nupkg.sha512",
     "C:\\Users\\Cleyton\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Cleyton\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Cleyton\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

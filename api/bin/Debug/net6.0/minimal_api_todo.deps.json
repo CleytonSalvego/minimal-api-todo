@@ -13,6 +13,7 @@
           "Microsoft.EntityFrameworkCore.Relational.Design": "1.1.6",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.3",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.14.0",
+          "MinimalApis.Extensions": "0.5.2-pre.20220322.22",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -175,6 +176,25 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+        }
+      },
+      "MinimalApis.Extensions/0.5.2-pre.20220322.22": {
+        "dependencies": {
+          "MiniValidation": "0.5.0-pre.20220315.50"
+        },
+        "runtime": {
+          "lib/net6.0/MinimalApis.Extensions.dll": {
+            "assemblyVersion": "0.5.2.0",
+            "fileVersion": "0.5.2.0"
+          }
+        }
+      },
+      "MiniValidation/0.5.0-pre.20220315.50": {
+        "runtime": {
+          "lib/net6.0/MiniValidation.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.0.0"
+          }
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -1049,6 +1069,20 @@
       "sha512": "sha512-9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
       "path": "microsoft.win32.primitives/4.3.0",
       "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
+    },
+    "MinimalApis.Extensions/0.5.2-pre.20220322.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+55Nfe7wyfgzCG+ZOSBqmGjGHKd34QeFLMfhF9rhGarYdItcWW6L3gIh9RFkoHMNBwE5mMPfdATDs/9hWBhPgQ==",
+      "path": "minimalapis.extensions/0.5.2-pre.20220322.22",
+      "hashPath": "minimalapis.extensions.0.5.2-pre.20220322.22.nupkg.sha512"
+    },
+    "MiniValidation/0.5.0-pre.20220315.50": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G5HiDfjIleWWS2azcXWTAxxKe22YvM5dlOxiXQ2W+ZIaRxMicqpJ88HMTF6ytbP3DEBo3/FGawgM8NgmX0b91A==",
+      "path": "minivalidation/0.5.0-pre.20220315.50",
+      "hashPath": "minivalidation.0.5.0-pre.20220315.50.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",
