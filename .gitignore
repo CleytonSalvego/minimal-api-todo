@@ -1,3 +1,4 @@
 .vs
-.dockerigonore
-/Dockerfile
+.dockerignore
+api/Dockerfile
+api/.vs
